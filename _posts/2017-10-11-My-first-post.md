@@ -7,6 +7,6 @@ author: "Bilal"
 
 **I am Trying the styles here**
 
-[placeholder](/content/images/2017/08/usertimer.gif "Large example image")
+[placeholder](https://giphy.com/gifs/1xeBjaG4RBGG4/html5 "Large example image")
 
 This is the end of my first post.
