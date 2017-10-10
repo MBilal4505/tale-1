@@ -3,7 +3,7 @@ layout: post
 title:  "My first post"
 author: "Bilal"
 ---
-#This is My first post 
+# This is My first post 
 
 **I am Trying the styles here**
 
