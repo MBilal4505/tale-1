@@ -66,6 +66,11 @@ a {
     text-indent: 0;
     font-weight: bold;
 }
+.hidden {
+    text-indent: -9999px;
+    visibility: hidden;
+    display: none;
+}
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
